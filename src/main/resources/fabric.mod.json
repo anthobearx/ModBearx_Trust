@@ -1,29 +1,32 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "modbearx",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "ModBearx",
+  "description": "Mod de pruebas",
   "authors": [
-    "Me!"
+    "AnthoBearx"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://twitter.com/anthobearx",
+    "sources": "https://github.com/anthobearx/ModBear_Trust"
   },
 
-  "license": "CC0-1.0",
+    "license": "MIT License",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.anthobearx.modbearx.ModBearx"
+    ],
+    "client": [
+      "net.anthobearx.modbearx.ModBearxClient"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "modbearx.mixins.json"
   ],
 
   "depends": {
