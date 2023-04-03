@@ -1,0 +1,24 @@
+{
+  "item.modbearx.bear_coin": "BearCoin",
+  "item.modbearx.xandrite": "Xandrite",
+  "item.modbearx.hory": "Hory",
+  "item.modbearx.knova": "Knova",
+  "item.modbearx.antwo": "An-Two",
+
+  "item.modbearx.plush_shark": "Plush shark",
+  "item.modbearx.plush_akita": "Plush akita inu",
+  "item.modbearx.plush_duck": "Plush duck",
+  "item.modbearx.plush_josu": "Plush josu furry",
+  "item.modbearx.plush_rabbit": "Plush rabbit",
+  "item.modbearx.camara": "Camera",
+  "item.modbearx.plastic": "Plastic",
+  "item.modbearx.wet_plastic": "Wet plastic",
+
+  "block.modbearx.useless_block": "Useless block",
+  "block.modbearx.plastic_block": "Plastic block",
+  "block.modbearx.trash_block": "Trash block",
+
+  "itemGroup.pruebabearx.bearxplush": "Plushes bearx",
+  "itemGroup.pruebabearx.bearxblock": "Blocks bearx",
+  "itemGroup.pruebabearx.bearxitem": "Items bearx"
+}
